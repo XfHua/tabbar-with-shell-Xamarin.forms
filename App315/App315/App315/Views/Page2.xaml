@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App315.Views.Page2" BackgroundColor="Blue">
+    <ContentPage Title="Tab 1" BackgroundColor="White">
+        <Label Text="Label in tab 1" TextColor="Orange" />
+    </ContentPage>
+    <ContentPage Title="Tab 2" BackgroundColor="White">
+        <Label Text="Label in tab 2" TextColor="Orange" />
+    </ContentPage>
+    <ContentPage Title="Tab 3" BackgroundColor="White">
+        <Label Text="Label in tab 3" TextColor="Orange" />
+    </ContentPage>
+</TabbedPage>
